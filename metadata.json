@@ -1,0 +1,8 @@
+{
+  "name": "14_Remix dnd-chronicle-weaver",
+  "description": "Tessitore di Cronache - Assistente e Compendio per D&D 5e con importatore PDF e catalogazione intelligente del Bestiario.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

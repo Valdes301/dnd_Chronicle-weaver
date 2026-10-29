@@ -1,0 +1,6 @@
+{
+  "summary":  "Piano di implementazione aggiornato con completamento dell'innalzamento del limite di token a 32.768 per estrazioni multi-pagina complete di lore, sincronizzazione dell'inquadratura miniatura sull'intera pagina scansionata e allineamento perfetto tra canvas ed elemento grafico.",
+  "updatedAt":  "2026-10-24T10:15:27.637944958Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
